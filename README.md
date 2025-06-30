@@ -16,4 +16,4 @@ This repository is an implementation of converting, quantizing and deploying the
 # Acknowledgment:
 <img src="https://github.com/NSTiwari/Mobile-VisionLM/blob/main/assets/dev-logo.png">
 
-This project was developed as part of Google's AI Developer Programs AI sprint. Thanks to the AIDP Team for their generous support in providing GCP credits and Colab units to help facilitate this project.
+This project was developed as part of Google's AI Developer Programs AI Sprint. Thanks to the AIDP Team for their generous support in providing GCP credits and Colab units to help facilitate this project.
